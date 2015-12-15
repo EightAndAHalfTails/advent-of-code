@@ -12,4 +12,3 @@ def e(a):
             return a
     return 0
 print e(load(open("input.txt")))
-    
